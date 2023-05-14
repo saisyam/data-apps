@@ -1,3 +1,4 @@
 dash
-pandas
-snowflake-snowpark-python
+snowflake-snowpark-python[pandas]
+dash-bootstrap-templates
+python-dotenv
